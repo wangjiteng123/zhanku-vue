@@ -1,0 +1,17 @@
+[
+{"type":"/works/all","name":"全部"},
+{"type":"/works/cartoon","name":"卡通"},
+{"type":"/works/plane","name":"平面"},
+{"type":"/works/abbr","name":"UI"},
+{"type":"/works/webpage","name":"网页"},
+{"type":"/works/ikon","name":"插画"},
+{"type":"/works/photography","name":"摄影"},
+{"type":"/works/space","name":"空间"},
+{"type":"/works/product","name":"产品"},
+{"type":"/works/three","name":"三维"},
+{"type":"/works/films","name":"影视"},
+{"type":"/works/handicraft","name":"手工品"},
+{"type":"/works/art","name":"纯艺术"},
+{"type":"/works/clothing","name":"服装"},
+{"type":"/works/rest","name":"其他"}
+]
